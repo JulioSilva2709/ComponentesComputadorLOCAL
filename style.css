@@ -1,7 +1,10 @@
 .align {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 img {
     width: 100%;
